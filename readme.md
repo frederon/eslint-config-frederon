@@ -1,3 +1,15 @@
 # My Eslint and Prettier Setup
 
-Just extends this 🙂
+Install 🙂
+
+```
+npm install --save-dev eslint-config-frederon
+```
+
+.eslintrc
+
+```
+{
+  "extends": ["frederon"]
+}
+```
